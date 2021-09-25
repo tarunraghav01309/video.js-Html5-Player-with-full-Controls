@@ -1,7 +1,7 @@
 # video.js-Html5-Player-with-full-Controls
 video.js-Html5-Player-with-full-Controls, Like download video, quality changer, captions.etc
 
-
+<HTML>
 <body>
  <video id='my_video_1' class='video-js vjs-default-skin' width='640px' height='267px'
      controls preload="none" poster='http://video-js.zencoder.com/oceans-clip.jpg'
@@ -40,3 +40,4 @@ video.js-Html5-Player-with-full-Controls, Like download video, quality changer, 
  <script src='https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js'></script>
 </head>
 </body>
+</HTML>
